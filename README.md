@@ -2,7 +2,7 @@
 
 > **2026년 최신 만 나이 통일법**을 완벽하게 반영한 정확한 나이 계산 도구 가이드입니다.
 
-[![GitHub Pages](https://img.shields.io/badge/Deployment-GitHub_Pages-blue?logo=github)](https://내아이디.github.io/korean-age-calculator/)
+[![GitHub Pages](https://img.shields.io/badge/Deployment-GitHub_Pages-blue?logo=github)](https://ninetwoj.github.io/korean-age-calculator/)
 
 ## 📌 프로젝트 개요
 대한민국 행정 기본법 및 민법 개정에 따라 모든 법적·행정적 나이 기준이 **'만 나이'**로 통일되었습니다. 본 프로젝트는 사용자가 혼동하기 쉬운 만 나이, 연 나이, 세는 나이의 차이점을 명확히 안내하고, 실시간으로 정확한 결과를 도출하는 도구를 제공합니다.
